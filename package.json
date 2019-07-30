@@ -25,6 +25,8 @@
   "homepage": "https://github.com/justinmc/testing-talk-project#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "chromedriver": "^75.1.0",
+    "mocha": "^6.2.0",
+    "nightwatch": "^1.1.13"
   }
 }
